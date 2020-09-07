@@ -1,0 +1,38 @@
+.navbar-nav {
+    margin-left: 7%;
+    margin-right: 7%;
+}
+
+.nav-link {
+    margin: 0 10% 0% 10%;
+    font-size: 15px;
+}
+
+.dropdown-item {
+    font-size: 15px;
+}
+
+#banner {
+    width:100%;
+    height: auto;
+}
+
+#addthing {
+    float: right;
+    margin-right: 9%;
+}
+
+#textfoot {
+    text-align: center;
+}
+
+.t-right {
+    float: right;
+    color: red;
+}
+
+#textaddthing {
+    margin-left: 8%;
+}
+
+
